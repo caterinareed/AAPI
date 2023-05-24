@@ -63,7 +63,7 @@ const Home = () => {
   return (
     <div className="flex flex-col font-Main text-[#171717] bg-[#f1f1f1] overflow-x-hidden">
       <Head>
-        <title>SBU AAPI</title>
+        <title>AAPI</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 {/**/}
